@@ -1,0 +1,29 @@
+{
+  "name": "getting_started_with_jest",
+  "version": "0.0.1",
+  "description": "Reviewing some testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/getting_started_with_jest.git"
+  },
+  "keywords": [
+    "node",
+    "jest"
+  ],
+  "author": "Dave Kanter <dave@davekanter.com> (http://www.davekanter.com/)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/getting_started_with_jest/issues"
+  },
+  "homepage": "https://github.com/raydot/getting_started_with_jest#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
